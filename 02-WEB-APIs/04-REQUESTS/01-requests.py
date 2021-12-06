@@ -1,7 +1,7 @@
 import requests
 
 def main():
-    response = requests.get("https://api.genderize.io?name=peter")
+    response = requests.get("https://api.genderize.io?name=james")
     
     if response.status_code != 200:
         print("Status code : ", response.status_code)
