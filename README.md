@@ -19,4 +19,6 @@ Vuejs plus django practice
 
 ## Related Resources
 
+### Screenshots
+
 ## Contributors
