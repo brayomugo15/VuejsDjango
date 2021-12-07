@@ -11,6 +11,12 @@ Vuejs plus django practice
 - [Permissions](#Permissions)
 - [Libraries](#Libraries)
 
+### Setting up
+
+### Libraries
+
+### 
+
 ## Related Resources
 
 ## Contributors
