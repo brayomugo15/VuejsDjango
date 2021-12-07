@@ -8,7 +8,8 @@ Vuejs plus django practice
 
 ## Prerequiste
 - [Setting up](#Setting)
-- 
+- [Permissions](#Permissions)
+- [Libraries](#Libraries)
 
 ## Related Resources
 
