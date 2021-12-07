@@ -7,6 +7,8 @@ Vuejs plus django practice
 - [Contributors](#Contributors)
 
 ## Prerequiste
+- [Setting up](#Setting)
+- 
 
 ## Related Resources
 
