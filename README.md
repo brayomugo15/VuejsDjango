@@ -15,7 +15,7 @@ Vuejs plus django practice
 
 ### Libraries
 
-### 
+### Libraries
 
 ## Related Resources
 
