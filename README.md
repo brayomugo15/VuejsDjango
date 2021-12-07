@@ -2,4 +2,5 @@
 Vuejs plus django practice
 
 ## Table of Contents
-- [Prerequisite]
+- [Prerequisite](#Prerequisite)
+- [Related Resources](#Related)
