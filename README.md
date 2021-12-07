@@ -22,3 +22,4 @@ Vuejs plus django practice
 ### Screenshots
 
 ## Contributors
+- [Brian Mugo](https://github.com/brayomugo15/)
