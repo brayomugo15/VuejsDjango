@@ -12,6 +12,7 @@ Vuejs plus django practice
 - [Libraries](#Libraries)
 
 ### Setting up
+Course can be found on udemy
 Download and install [Visual studio code](https://code.visualstudio.com/download)
 
 ### Libraries
