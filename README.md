@@ -1,5 +1,5 @@
 # VuejsDjango
-Vuejs plus django practice
+Vuejs plus django practice. Udemy course
 
 ## Table of Contents
 - [Prerequisite](#Prerequisite)
