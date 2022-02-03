@@ -1,4 +1,6 @@
 # VuejsDjango
+** Under development **
+
 Vuejs plus django practice. Udemy course
 
 ## Table of Contents
